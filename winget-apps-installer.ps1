@@ -1,6 +1,12 @@
+
+# winget install --id {id}
+# winget install {nome}
+
+
 winget install 7-Zip
 winget install Battle.net
-winget install Discord
+# winget install Discord
+winget install Discord.Discord
 winget install Element
 winget install Epic Games Launcher
 winget install Firefox Developer Edition
@@ -19,8 +25,6 @@ winget install simplewall
 winget install Steam
 winget install Telegram Desktop
 winget install Windows Terminal
-
-
 
 
 
