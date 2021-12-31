@@ -1,6 +1,9 @@
-
+# Install:
 # winget install --id {id}
 # winget install {nome}
+
+# Uninstall:
+# winget uninstall --id {id}
 
 
 winget install 7-Zip
