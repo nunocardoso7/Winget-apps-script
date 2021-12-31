@@ -25,6 +25,7 @@ winget install simplewall
 winget install Steam
 winget install Telegram Desktop
 winget install Windows Terminal
+winget install sysinternals
 
 
 
