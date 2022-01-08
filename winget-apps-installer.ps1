@@ -1,6 +1,15 @@
 # Install:
 # winget install --id {id}
 # winget install {nome}
+# winget install {nome} -v {versão}
+
+# Upgrade:
+# winget upgrade
+# winget upgrade --all
+# winget upgrade {id}
+# winget upgrade {nome}
+
+
 
 # Uninstall:
 # winget uninstall --id {id}
