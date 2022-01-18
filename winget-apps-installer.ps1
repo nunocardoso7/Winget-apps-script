@@ -7,6 +7,7 @@
 # winget upgrade
 # winget upgrade --all
 # winget upgrade {id}
+# winget upgrade --id {id}
 # winget upgrade {nome}
 
 
