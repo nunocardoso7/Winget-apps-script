@@ -32,6 +32,7 @@ winget install Microsoft Visual Studio Code
 winget install Notepad++
 winget install Notion
 winget install ONLYOFFICE Desktop Editors
+winget install --id ONLYOFFICE.DesktopEditors
 winget install Session
 winget install Signal
 winget install simplewall
