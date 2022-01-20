@@ -2,11 +2,11 @@
 # winget install --id {id}
 # winget install {nome}
 # winget install {nome} -v {versão}
+# winget install --id {id} --version {versão}
+
 
 # Procurar versões:
 # winget show --id {id} --versions
-
-
 
 
 
