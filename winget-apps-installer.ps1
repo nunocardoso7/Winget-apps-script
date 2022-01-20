@@ -3,6 +3,13 @@
 # winget install {nome}
 # winget install {nome} -v {versão}
 
+# Procurar versões:
+# winget show --id {id} --versions
+
+
+
+
+
 # Upgrade:
 # winget upgrade
 # winget upgrade --all
