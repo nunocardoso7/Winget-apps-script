@@ -17,7 +17,8 @@
 # winget upgrade --id {id}
 # winget upgrade {nome}
 
-
+# Ver pacotes instalados:
+# winget list
 
 # Uninstall:
 # winget uninstall --id {id}
